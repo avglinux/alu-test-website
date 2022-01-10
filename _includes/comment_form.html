@@ -56,3 +56,16 @@
     <button class="button mdl-button--colored mdl-js-button mdl-js-ripple-effect js-close-modal">Close</button>
   </div>
 </article>
+
+<!-- Simple Markdown Editor -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css"/>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+  var simplemde = new SimpleMDE({
+    element: document.getElementById("comment-form-message"),
+    forceSync: true,
+    spellChecker: false,
+    status: false,
+    placeholder: "Your comment (markdown accepted)",
+  });
+</script>
