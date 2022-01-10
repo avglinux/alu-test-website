@@ -58,17 +58,17 @@ comments:
   # with Mailgun, which you can get for free at http://mailgun.com.
   notifications:
     # Enable notifications
-    enabled: false
+    enabled: true
 
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    apiKey: ""
+    apiKey: "4f3p9dOBeY8rAlKLrQa3QUahfqYJUlIcH2E/v2sHyPhtckAZkt+V2uawLjSf46RXNL/oMVMMVDmKi+Fkgyk8SdpHrOwZPo8PxBh1L9tXkoAHkycvt9aXtDgGFz8SkfhiKL6U9ryh7fR6UvveMqScD01q8iQ+azVgiJ7/1GZZipXwhgbt9AUW2sqSqgLvrh06dNO0UvywTkZHZYrbSx4h704GQ0q2l8Qompi6bQUybmbL5pnY2Pcfqk1RTCNtNWkT9JvTDb2Rch7xMsKK7I2UlxgQRzgbAqIaecSMFN4kACeVm8ii8YGH28N07epkUVd1ShB6PyrKQlXRQEMkZm8/rO8fIYSncPi+2rZ4tt2ZI/OoA8F4DX/h0U4A5OJR8orSWJ9FnC1tYdQamvOSelEgS0iljkQMk617Ige0PKqV6GyQPwjofzKIP4UngMaie8BDqgMyPQaddJ8ILKO9c6/ASaueIDqoC2YKqN6Z5oCpyyXinC//m1qpIMMUZebiFeRtiPwbQQ1D/ldVSg9ciXOa8skrJg+ZidqM9WxAtMx1EvvOOfVkOf92vl7nvVj6eoYS3lTBQF33qyOpkT34yU4wMeClW+PrTanl5P4c/5wFe6g69q+zDi7YhBaXJU7gp716Tin4Z3XcKzi9YLZeLP/y89RmX7in2sVNbcSt5zHn7U8="
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    domain: ""
+    domain: "EZo6aRiuO7INXq46zmy5SAzUcEmL+y+zapp9lgc4EApG79aNWVIkMSfRJb6sd9yv0AVxKGCrtUplUi6oRQN5EUYvOKJLOy+p4joiKMl2EIuqtYgNFL4nzfyJ+19+yOLkNykFa56NTtoQh48bBo+AVz7egetNq2tOQugim7n7QK7bC0vmfk2JwRS4fqCXyFRs0r7GjdsKG+stvcBdajubVgbnd9bAoDfNOesTXts/TcQ7KJjwsjgNP6RTNKLUD50bfLK1zGAMfwqHVm78wMXih8BO0qzc7Yt2qhJAmAcdhUH51TSX1c7s9Nj1p55/Ys3Su1kNQ+pYlmwR4X1qMEVqhBgrhm6WRvQIfwXiZ1Slj0BEN3xX2aZQt8UWpOYJjTXvVLw4Na4DEHHsMxpXSjXeHOnwEHqbDW8FPuYTTWMlBBGpvZjddR1kMRsWMsQEL0XOg5FmO/o78sjeUNf/S+Vao8rIMDb3LkumEZ0uMpmsG1BR2gU8/A5KNtcYqQZ9EXo5RXW13N5SC2n4kw8mb6OupZWKJQzqWw8ctd6VHRrpI9SHI0VP/DaI5owAtQRpXsmID6VDUMYd2v2mbhn9lmTYoc6P8XoYz0glO46ByknB0gw44MODGEkG+QYTVOsCOef9o/VO4YOKUTFBPsrrbmXJtlzw/uefMufWBG1SXmGUNQU="
 
   # (*) REQUIRED
   #
