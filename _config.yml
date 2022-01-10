@@ -30,9 +30,11 @@ github_username:  avglinux
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
-  - liquid-md5
+#plugins:
+  #- jekyll-feed
+  
+# staticman (comments) configuration
+staticman_url: https://alu-staticman.herokuapp.com/v2/entry/avglinux/alu-test-website/master/comments
 
 # Exclude from processing.
 # The following items will not be processed, by default.
