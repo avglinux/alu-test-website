@@ -8,6 +8,6 @@ date:   2022-01-07
 
 Related articles:
 
-**[Staticman: Add Comments to your Static Website for FREE](/staticman-comments/)**.
+**[Staticman: Add Comments to your Static Website for FREE](https://averagelinuxuser.com/staticman-comments/)**.
 
-**[Overview of the best commenting systems for your static website](/static-website-commenting/)**
+**[Overview of the best commenting systems for your static website](https://averagelinuxuser.com/static-website-commenting/)**
